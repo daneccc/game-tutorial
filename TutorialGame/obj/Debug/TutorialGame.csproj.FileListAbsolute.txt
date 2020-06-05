@@ -1,0 +1,12 @@
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\bin\Debug\TutorialGame.exe.config
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\bin\Debug\TutorialGame.exe
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\bin\Debug\TutorialGame.pdb
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\bin\Debug\sfmlnet-system-2.dll
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\bin\Debug\sfmlnet-window-2.dll
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\obj\Debug\TutorialGame.csprojAssemblyReference.cache
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\obj\Debug\TutorialGame.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\obj\Debug\TutorialGame.csproj.CopyComplete
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\obj\Debug\TutorialGame.exe
+C:\Users\danie\Desktop\TutorialGame\TutorialGame\obj\Debug\TutorialGame.pdb
