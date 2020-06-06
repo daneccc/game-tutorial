@@ -10,6 +10,9 @@ namespace TutorialGame
     {
         static void Main(string[] args)
         {
+
+            TutorialGame tutorialGame = new TutorialGame();
+            tutorialGame.Run();
         }
     }
 }
