@@ -39,6 +39,11 @@ namespace TutorialGame
             this.WindowClearColor = windowClearColor;
             this.Window = new RenderWindow(new VideoMode(windowWidth, windowHeight), windowTitle);
             this.GameTime = new GameTime();
+            Window.Closed += WindowClosed;
+        }
+
+        private void WindowClosed(object sender, EventArgs e) {
+            Window.Close();
         }
 
         public void Run() {
