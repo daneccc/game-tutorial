@@ -59,6 +59,7 @@
   <ItemGroup>
     <Compile Include="GameLoop\GameLoop.cs" />
     <Compile Include="GameLoop\GameTime.cs" />
+    <Compile Include="Game\DebugUtility.cs" />
     <Compile Include="Game\TutorialGame.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
